@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KELOMPOK4_C1_TOKOKACAMATA
+</name>
+</assembly>
+<members>
+<member name="T:KELOMPOK4_C1_TOKOKACAMATA.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:KELOMPOK4_C1_TOKOKACAMATA.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:KELOMPOK4_C1_TOKOKACAMATA.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:KELOMPOK4_C1_TOKOKACAMATA.My.Resources.Resources.eyes">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KELOMPOK4_C1_TOKOKACAMATA.My.Resources.Resources.panda">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
